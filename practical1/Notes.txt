@@ -1,0 +1,10 @@
+LED
+long leg: +ve
+short leg: -ve
+
+Register = 330 ohm
+
+
+
+setup() executes for once.
+loop() executes multiple times.
