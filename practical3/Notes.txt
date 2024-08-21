@@ -1,0 +1,47 @@
+Motor 
+- Converts Mechanical Energy to Electrical Energy
+- Digital Device
+- Output device
+- Use header files to use with Arduino
+
+Pins:
+-> red - 5v
+-> brown - ?
+-> orange - connect to a pin
+
+
+
+// Header file
+#include<Servo.h>
+
+int servoPin = 10;
+int servoPos = 0;
+Servo myServo; //Object
+
+void setup()
+{
+  Serial.begin(9600);
+  pinMode(servoPin, OUTPUT);
+  myServo.attach(servoPin);
+}
+
+void loop()
+{
+  while(Serial.available() == 0) {}
+  servoPos = Serial.parseInt();
+  myServo.write(servoPos);
+  delay(5000);
+  myServo.write(90);
+  
+}
+
+
+
+
+
+
+-------------
+
+PhotoResistor
+
+- Range: 6-679
