@@ -1,0 +1,6 @@
+Create a circuit to detect water levels . Use a relay to turn on and off the water pump
+
+Conditions: 
+a. alarm should be on if the water level exceeds the threshold height
+b. display the time remaining to overflow the tank
+c. display the water levels using 2 leds representing 'reached the threshold', 'near to overflow' and 'overflow'
