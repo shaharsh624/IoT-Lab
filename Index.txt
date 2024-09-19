@@ -1,0 +1,17 @@
+1.1 LED Blinking Program
+1.2 LED with a Button
+
+2.1 Proximity Sensor
+2.2 Potentiometer
+2.3 Buzzer
+2.4 Proximity, LED, Buzzer
+
+3.1 Servo Motor 
+
+4.1 Relay SPDT
+
+5.1 GSM
+5.2 Bluetooth: https://randomnerdtutorials.com/esp32-bluetooth-classic-arduino-ide/
+5.3 WiFi
+
+
