@@ -1,0 +1,9 @@
+Objective: Establish communication between 2 Node MCU
+
+Uses HTTP Protocol
+
+Client Server architecture
+
+It has inbuilt wifi 
+
+
