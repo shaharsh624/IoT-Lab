@@ -1,5 +1,5 @@
-int ledPin = 3;
-int buttonPin = 9;
+int ledPin = 48;
+int buttonPin = 39;
 int buttonStatus = 0;
 
 void setup() {
