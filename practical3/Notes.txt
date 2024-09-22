@@ -1,4 +1,4 @@
-Motor 
+Servo Motor 
 - Converts Mechanical Energy to Electrical Energy
 - Digital Device
 - Output device
