@@ -1,0 +1,16 @@
+Relay
+
+Used to connect home devices to connect with microcontroller
+
+4 channel module
+
+1. Single Pole Double Terminal
+2. Double Pole double Terminal
+
+
+
+Other
+
+GSM
+Bluetooth
+Wifi
