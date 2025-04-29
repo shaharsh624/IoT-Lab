@@ -1,0 +1,22 @@
+> BREATH RATE USING PUSH BUTTON
+https://wokwi.com/projects/413974088244392961
+
+> BREATH RATE USING RELAY
+https://wokwi.com/projects/413964943596768257
+
+> RELAY BLINK
+https://wokwi.com/projects/413965415221213185
+
+> LED BLINK
+https://wokwi.com/projects/413965288211365889
+
+> BMI USING ULTRASONIC SENSOR
+https://wokwi.com/projects/413964237741376513
+
+
+
+
+1 - Heart rate monitoring - print on lcd display
+2 - LED On OFF 
+3 - Breath rate count using relay
+4 - Calculate BMI and display on LCD. Take weight as input in serial monitor and height using ultrasonic sensor
